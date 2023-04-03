@@ -1,4 +1,4 @@
-from exceptions import ImpossibleTitlesError, InvalidYearCupError, NegativeTitlesError
+from teams.exceptions import ImpossibleTitlesError, InvalidYearCupError, NegativeTitlesError
 from datetime import datetime
 
 
